@@ -8,7 +8,7 @@ public class AzureWebAppRestController {
 
     @GetMapping("/test")
     public String test(){
-        return "Welcome to Spring boot application deployment on azure web app";
+        return "Welcome to Spring boot application deployment on azure web app! Akshay & Aditi Application";
     }
 
 
